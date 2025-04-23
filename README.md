@@ -15,8 +15,6 @@ Nayana Rampur Kottur
 - [Operations and Logic](#operations-and-logic)
 - [User Interaction Flow](#user-interaction-flow)
 - [Running the Program](#running-the-program)
-- [Sample Inputs and Outputs](#sample-inputs-and-outputs)
-- [Conclusion](#conclusion)
 
 ---
 
