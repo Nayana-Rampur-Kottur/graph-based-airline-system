@@ -1,0 +1,40 @@
+# Compiled object files
+*.o
+
+# Compiled binary files
+*.out
+*.exe
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# Dependency files
+*.d
+
+# Debug files
+*.log
+*.stackdump
+
+# Build directories
+/build/
+/bin/
+/obj/
+
+# VSCode settings
+.vscode/
+
+# CLion settings
+.idea/
+cmake-build-*/
+
+# Mac OS metadata
+.DS_Store
+
+# Windows metadata
+Thumbs.db
+
+# Makefile intermediates
+*.dep
+*.dSYM/
